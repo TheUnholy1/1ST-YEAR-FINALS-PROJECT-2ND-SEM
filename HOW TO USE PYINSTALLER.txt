@@ -1,0 +1,13 @@
+pyinstaller --onefile -w ALCANTARA_FINALSPROJECT.py
+
+
+Python Location: C:\Users\[user]\AppData\Local\Programs\Python
+[user]
+
+
+From the command line (not from your IDE) use this command to install pyinstaller:
+
+py -m pip install pyinstaller
+and this command to run it:
+
+py -m PyInstaller myfile.py
