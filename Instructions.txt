@@ -1,0 +1,11 @@
+Please Open ALCANTARA_FINALSPROJECT.py to run the Main Menu
+
+
+To download Pillow
+> pip install Pillow
+
+To download pygame
+> pip install pygame
+
+
+Use Arrow Keys to Move the Snake
